@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "b968cd052d8ffeac",
+    "type": "split",
+    "children": [
+      {
+        "id": "87c5210ae4a27ebe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ff4f18974cca15e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Getter & Setter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "525eb959f61fc60e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dataclass.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "881763681e45c9d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "782ce6c734b48eb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8e8e71f6e2a6fa9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8928573cc28fc519",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "§",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5c51da08d07430a4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "770629794ce3be5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6f5aa983a9a57aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ac11845d7bdc30f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Getter & Setter.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fe9d79e23fa5e78d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Getter & Setter.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "312ed1f9d30f672f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "37edeb77df866297",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Getter & Setter.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8928573cc28fc519",
+  "lastOpenFiles": [
+    "Getter & Setter.md",
+    "dataclass.md",
+    "Untitled",
+    "dataclass",
+    "f String.md",
+    "Python Constructor.md"
+  ]
+}
