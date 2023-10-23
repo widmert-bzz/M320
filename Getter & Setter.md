@@ -1,11 +1,11 @@
 
 
 ### Live Dictionary:
-```
+```python
 props
 ```
 ### Getter:
-```
+```python
 @property
 def type(self):
 	'''
@@ -14,7 +14,7 @@ def type(self):
 	return self._type
 ```
 ### Setter:
-```
+```python
 @type.setter
 def type(self, type):
 	'''
