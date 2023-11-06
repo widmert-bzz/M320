@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "87c5210ae4a27ebe",
+        "id": "5eaad41a01f0ad58",
         "type": "tabs",
         "children": [
           {
-            "id": "5ff4f18974cca15e",
+            "id": "f662238195a9e08c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Getter & Setter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "525eb959f61fc60e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dataclass.md",
+                "file": "f String.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "§",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Getter & Setter.md",
+                "file": "f String.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Getter & Setter.md",
+                "file": "f String.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Getter & Setter.md"
+                "file": "f String.md"
               }
             }
           }
@@ -160,13 +146,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8928573cc28fc519",
+  "active": "f662238195a9e08c",
   "lastOpenFiles": [
-    "Getter & Setter.md",
+    "Python Constructor.md",
+    "Python Vererbungen.md",
+    "Abstrakte Klassen.md",
+    "2023-11-05.md",
+    "AI.md",
+    "Interfaces.md",
+    "Sequenzdiagramm.md",
+    "Untitled 1.md",
+    "Images/Pasted image 20231104120445.png",
+    "Klassendiagramm & Data Hidding.md",
     "dataclass.md",
+    "Beziehungen.md",
     "Untitled",
-    "dataclass",
+    "Referenzen zuweisen.md",
+    "Objekte und Klassen.md",
+    "Mehrfachbeziehung.md",
+    "Getter & Setter.md",
+    "Fehlerbehandlung.md",
     "f String.md",
-    "Python Constructor.md"
+    "Images/Pasted image 20230930120337.png",
+    "Images/Pasted image 20230930115801.png",
+    "Images/Pasted image 20230930120252.png",
+    "Images/Pasted image 20230930115803.png",
+    "Images/Pasted image 20230930115633.png",
+    "Images/Pasted image 20230930115725.png",
+    "Images/Pasted image 20230930115724.png",
+    "Images/Pasted image 20230930115619.png",
+    "Images/Pasted image 20230930115311.png",
+    "Images",
+    "Theorie/Objekte und Klassen-Laptop_Lukas.md",
+    "Theorie/Objekte und Klassen-Laptop_Lukas-2.md",
+    "Theorie",
+    "2023-09-30.md",
+    "dataclass"
   ]
 }
