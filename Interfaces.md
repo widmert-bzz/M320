@@ -1,5 +1,8 @@
+
+```bash
 UML =<<interface>>
 			-------------------------->
+```
 
 - nur abstrakte Funktionen
 - Spezialfall von Abstrakten Klassen
